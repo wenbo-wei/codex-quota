@@ -1,0 +1,12 @@
+.codex-quota-panel-box {
+  spacing: 4px;
+}
+
+.codex-quota-panel-icon {
+  icon-size: 15px;
+}
+
+#panel .panel-button.codex-quota-centre-button {
+  -natural-hpadding: 0.818em;
+  -minimum-hpadding: 0.818em;
+}

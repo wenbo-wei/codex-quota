@@ -1,0 +1,9 @@
+{
+  "uuid": "codex-quota@wenbo-wei",
+  "name": "Codex Quota",
+  "description": "Shows the weekly remaining Codex quota in the top panel.",
+  "shell-version": [
+    "50"
+  ],
+  "version": 1
+}
